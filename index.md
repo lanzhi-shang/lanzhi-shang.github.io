@@ -15,7 +15,7 @@ layout: default
 ### I was born in 2003 but I took two gap years(one in senior high school and one in my sophomore year), so I am still an undergraduate student until 2027...
 ### major in International Economics and Trade 
 [Other places you could find me](./another-page.html).
-#### <img src="./assets/img/IMG_2212.jpeg" alt="I love Linabell!" width="45%">  <img src="./assets/img/IMG_4689 2.jpg" alt="Linabell" width=310>
+#### <img src="./assets/img/IMG_2212.jpeg" alt="I love Linabell!" width="45%">  <img src="./assets/img/IMG_46892.jpg" alt="Linabell" width=310>
 (I spent almost every night with my Linabell during my second gay year,she really helped me with my insomnia)
 ### my birthplace:Guiyang (a very nice city with nice weather and best food,even you could eat for 24 hours)
 ---
