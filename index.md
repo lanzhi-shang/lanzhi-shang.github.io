@@ -8,8 +8,8 @@ layout: default
 
 
 ### <img src="./assets/img/IMG_4398.jpeg" alt="my selfie in hongkong,2024" width="50%"> 
-####  I saw everyone's page had their own photo,so I do.😀
- Shang Lanzhi is the pinyin of my name "商兰芝",please don't ask me how to pronounce my name cause sometimes I couldn't pronounce my name standardly in mandarin🥲so that I always feel nervous and scared when people ask me to introduce myself and my name.
+####  (I saw everyone's page had their own photo,so I do.😀)
+ 
 
 
 ### I was born in 2003 but I took two gap years(one in senior high school and one in my sophomore year), so I am still an undergraduate student until 2027...
